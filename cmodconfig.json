@@ -1,0 +1,9 @@
+{
+    "output": "build/AntohiRobert_binpow.o",
+    "command": "g++ -fmodules-ts",
+    "dependencies": [],
+    "liborexe": "lib",
+    "srcfiles": [
+        "*.cpp"
+    ]
+}
