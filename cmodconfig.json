@@ -1,6 +1,6 @@
 {
     "output": "build/AntohiRobert_binpow.o",
-    "command": "g++ -fmodules-ts",
+    "command": "g++",
     "dependencies": [],
     "liborexe": "lib",
     "srcfiles": [
