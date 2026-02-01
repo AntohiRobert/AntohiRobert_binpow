@@ -1,6 +1,6 @@
 {
     "output": "build/AntohiRobert_binpow.o",
-    "command": "clang++ -std=c++20 -fmodules-ts",
+    "command": "g++ -fmodules-ts",
     "dependencies": [],
     "liborexe": "lib",
     "srcfiles": [
